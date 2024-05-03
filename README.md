@@ -26,7 +26,10 @@
 🚧 Under Construction 🚧
 
 <hr>
-<p>Always looking to make more friends! Connect with me :</p>
+
+### Always looking to make more friends! 
+
+<p>Connect with me :</p>
 <div id="badges">
   <a href="https://www.linkedin.com/in/a-b-3a2966295">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
