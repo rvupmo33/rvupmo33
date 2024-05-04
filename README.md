@@ -1,6 +1,6 @@
 <h1>Welcome to my page 👋☃️</h1>
 - 🧩 Currently learning front-end / back-end <br>
-- 🌱 Software engineer looking to break into computer science
+- 🌱 Software engineering student looking to break into computer science
 
 ### Some of my other interests: 
 - Mathematics
