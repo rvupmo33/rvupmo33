@@ -37,12 +37,8 @@
  <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=rvupmo33@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
 </a> &nbsp;
-  <a href="https://github.com/rvupmo33">
-  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-</a>
 </div>
 <p>
   ( discord: whym33#0 &nbsp;||&nbsp;
-  gmail: rvupmo33@gmail.com&nbsp; ||&nbsp;
-  Github: rvupmo33 )
+  gmail: rvupmo33@gmail.com&nbsp; )
 </p>
