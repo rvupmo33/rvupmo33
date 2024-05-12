@@ -39,6 +39,5 @@
 </a> &nbsp;
 </div>
 <p>
-  ( discord: whym33#0 &nbsp;||&nbsp;
-  gmail: rvupmo33@gmail.com&nbsp; )
+  ( discord: whym33#0 )
 </p>
