@@ -1,14 +1,6 @@
 <h1>Welcome to my page 👋☃️</h1>
-- 🧩 Currently learning front-end / back-end <br>
+- 🧩 Currently learning full-stack dev <br>
 - 🌱 Software engineering student looking to break into computer science
-
-### Some of my other interests: 
-- Mathematics
-- Carpentry
-- Machine Learning
-- Game Development
-- Writing
-- Language Learning
 
 ### Current Languages :
 <div>
@@ -21,9 +13,6 @@
 
 ### Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rvupmo33&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-### Blog :
-🚧 Under Construction 🚧
 
 <hr>
 
