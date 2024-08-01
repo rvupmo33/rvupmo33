@@ -2,7 +2,7 @@
 
 <h4>My Name is AB and I am an aspiring full stack developer</h4>
 <li>🔭 Currently learning: React, NodeJS, NextJS, Firebase, MongoDB</li>
-<li>🌱 Plan on learning: Cloud, AI/ML, Java, DSA, SQL, Godot </li>
+<li>🌱 Plan on learning: Cloud, AI/ML, Java, DSA, Advance SQL, Godot </li>
 
 <h4>Current Languages & Tools:</h4>
 <div>
