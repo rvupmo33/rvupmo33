@@ -1,8 +1,8 @@
 <h3 align="center">Welcome to my Github 👋</h1>
 
-<h4>My Name is AB and I am an aspiring full stack developer</h4>
-<li>🔭 Currently learning: React, NodeJS, NextJS, Firebase, MongoDB</li>
-<li>🌱 Plan on learning: Cloud, AI/ML, Java, DSA, Godot </li>
+<h4>I am A and I am an aspiring full stack developer</h4>
+<li><!--🔭--> Currently learning: React, NodeJS, NextJS, Firebase, MongoDB</li>
+<li><!--🌱-->  Plan on learning: Cloud, AI/ML, Java, DSA, Godot </li>
 
 <h4>Current Languages & Tools:</h4>
 <div>
@@ -23,4 +23,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rvupmo33&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 <hr>
-<p align="center">Linkedin: <a href="https://www.linkedin.com/in/ayesha-b-3a2966295/">Ayesha B</a> | Gmail: bilalayesha235@gmail.com | Discord: whym33 </p>
+<!-- <p align="center">Linkedin: <a href="https://www.linkedin.com/in/ayesha-b-3a2966295/">Ayesha B</a> | Gmail: bilalayesha235@gmail.com | Discord: whym33 </p> -->
