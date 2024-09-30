@@ -23,4 +23,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rvupmo33&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 <!-- <hr>
-<!-- <p align="center">Linkedin: <a href="https://www.linkedin.com/in/ayesha-b-3a2966295/">Ayesha B</a> | Gmail: bilalayesha235@gmail.com | Discord: whym33 </p> --> -->
+ <p align="center">Linkedin: <a href="https://www.linkedin.com/in/ayesha-b-3a2966295/">Ayesha B</a> | Gmail: bilalayesha235@gmail.com | Discord: whym33 </p> --> 
